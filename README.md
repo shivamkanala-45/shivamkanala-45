@@ -1,14 +1,25 @@
+
 <div align="center">
 
-# Hi, I'm Shivam Kanala 👋
+# 👋 Hi, I'm Shivam Kanala
 
-### Problem Solver · Backend Development Enthusiast · Computer Science Student
+### Problem Solver | Backend Developer in Progress
 
-I enjoy solving challenging problems, understanding how software works under the hood, and building practical applications.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Competitive+Programming+Enthusiast;Backend+Development+Learner;Exploring+System+Design;Future+Machine+Learning+Enthusiast" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-shivamkanala--45-181717?style=for-the-badge&logo=github)](https://github.com/shivamkanala-45)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/shivamkanala)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivamkanala_45/)
+<p>
+  <a href="https://github.com/shivamkanala-45">
+    <img src="https://img.shields.io/badge/GitHub-shivamkanala--45-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://codeforces.com/profile/shivamkanala">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/shivamkanala_45/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 </div>
 
@@ -17,142 +28,206 @@ I enjoy solving challenging problems, understanding how software works under the
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student in **Mathematics and Computing**.
-- 🧠 Strong interest in **problem solving, Data Structures and Algorithms, and competitive programming**.
-- ⚙️ Currently focusing on **backend development** and learning how to build reliable server-side applications.
-- 🗄️ Working with relational and NoSQL databases, especially **PostgreSQL** and **MongoDB**.
-- 🏗️ Interested in **system design** and understanding how scalable applications are designed.
-- 🤖 Planning to explore **Machine Learning** as a next learning area.
+- 🧠 Enjoy solving challenging problems and exploring algorithms.
+- 💻 Currently focusing on **Backend Development**.
+- 🗄️ Working with PostgreSQL and MongoDB.
+- 🏗️ Interested in System Design and scalable software architecture.
+- 🤖 Planning to explore Machine Learning.
 
-I value understanding the fundamentals, writing maintainable code, and learning by building.
+I believe in understanding fundamentals, writing clean code, and learning by building real-world applications.
+
+---
 
 ## 🧰 Tech Stack
 
 ### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,html,css" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,html,css&perline=7" />
 </p>
 
 ### Backend Development
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-- REST API development
-- Middleware, request validation, and error handling
-- Connecting backend applications with databases
+- REST API Development
+- Middleware and Request Validation
+- Error Handling
+- Database Integration
 
 ### Databases
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [Campus Gardening Management System](https://github.com/shivamkanala-45/DBMS_PROJECT)
-A web-based system for managing campus gardening operations, including plant records, garden sections, staff, equipment, maintenance tasks, and visitor access.
+### 1. Campus Gardening Management System
+
+[View Repository](https://github.com/shivamkanala-45/DBMS_PROJECT)
+
+A centralized system designed to manage campus gardening operations, including plant records, garden sections, staff, equipment, maintenance and visitor management.
 
 **Highlights**
-- Designed around a PostgreSQL relational database with **23 normalized 3NF tables**.
-- Built a Node.js and Express REST API connected to PostgreSQL.
-- Includes dashboard and modules for plants, sections, staff, equipment, maintenance, and visitors.
-- Supports a dual-mode data approach with a LocalStorage fallback when the backend is unavailable.
+- Designed a relational database with 23 normalized 3NF tables.
+- Developed backend APIs using Node.js and Express.
+- Integrated PostgreSQL for structured data management.
+- Implemented modules for plant management, equipment, staff and maintenance.
+- Includes a LocalStorage fallback when the backend is unavailable.
 
-**Tech:** JavaScript, HTML, CSS, Node.js, Express.js, PostgreSQL
+**Technologies:** JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS.
 
-### 2. [DevPulse Issue Tracker](https://github.com/shivamkanala-45/MINI_PROJECTS/tree/main/DevPulse-Issue-Tracker)
-A full-stack issue and bug-tracking application focused on organizing development tasks through an interactive Kanban-style interface.
+### 2. DevPulse – Issue Tracker
+
+[View Project](https://github.com/shivamkanala-45/MINI_PROJECTS/tree/main/DevPulse-Issue-Tracker)
+
+A full-stack issue tracking application designed to organize and manage software development tasks through a Kanban-style interface.
 
 **Highlights**
-- Express.js backend with PostgreSQL connection pooling.
-- Request validation using `express-validator`.
-- Custom application error classes and centralized error handling.
-- Dark-mode Kanban dashboard for tracking issues.
+- REST API development using Express.js.
+- PostgreSQL connection pooling.
+- Request validation using express-validator.
+- Custom error classes and centralized error handling.
+- Interactive issue management dashboard.
 
-**Tech:** Node.js, Express.js, PostgreSQL, JavaScript
+**Technologies:** Node.js, Express.js, PostgreSQL, JavaScript.
 
-### 3. [JavaScript Mini Projects](https://github.com/shivamkanala-45/MINI_PROJECTS)
-A collection of small projects built to practise JavaScript fundamentals and browser interaction.
+### 3. JavaScript Mini Projects
 
-**Includes**
-- **Color Changer** — dynamic DOM and style manipulation.
-- **BMI Calculator** — takes user input and calculates BMI.
-- **Digital Clock** — displays continuously updated time.
-- **Guess the Number** — interactive number-guessing game.
+[View Repository](https://github.com/shivamkanala-45/MINI_PROJECTS)
 
-**Tech:** HTML, CSS, JavaScript
+A collection of small projects built to strengthen JavaScript fundamentals and browser interaction.
 
-### 4. [JavaScript Learning Repository](https://github.com/shivamkanala-45/JavaScript-Learning)
-A learning repository containing JavaScript notes and practice material, including a detailed browser JavaScript handbook.
+**Projects include**
+- Color Changer – DOM manipulation and dynamic styling.
+- BMI Calculator – Input handling and calculations.
+- Digital Clock – Dynamic time updates.
+- Guess the Number – Interactive game logic.
 
-**Topics represented**
-- DOM structure, element selection, traversal, and manipulation.
-- Browser-side JavaScript concepts and practical examples.
-- Consolidated JavaScript learning notes.
+**Technologies:** HTML, CSS, JavaScript.
 
-**Tech:** JavaScript, HTML, Markdown
+### 4. JavaScript Learning Repository
 
-### 5. [LeetCode Solutions](https://github.com/shivamkanala-45/Leetcode)
-A continuously growing collection of solutions to algorithmic problems.
+[View Repository](https://github.com/shivamkanala-45/JavaScript-Learning)
 
-**Problem-solving areas represented**
-- Arrays, strings, hashing, and binary search.
-- Dynamic programming and greedy algorithms.
-- Trees, graphs, BFS, and DFS.
-- Sliding window, stacks, and other common patterns.
+A learning repository containing JavaScript practice material and notes.
+
+**Topics**
+- DOM manipulation and traversal.
+- Browser events and event handling.
+- JavaScript fundamentals.
+- Practical browser-side programming.
+
+**Technologies:** JavaScript, HTML, Markdown.
+
+### 5. LeetCode Solutions
+
+[View Repository](https://github.com/shivamkanala-45/Leetcode)
+
+A collection of algorithmic problem solutions focused on improving problem-solving skills and algorithmic thinking.
+
+**Topics**
+- Arrays and Strings
+- Dynamic Programming
+- Graphs and Trees
+- Binary Search
+- Greedy Algorithms
+- Sliding Window
+- Hashing and Stack
 
 **Language:** C++
 
 ---
 
-## 🧠 What I Enjoy Working On
+## 🧠 Areas of Interest
 
-- Algorithmic problem solving and competitive programming.
-- Backend APIs, validation, middleware, and database integration.
-- Relational database design and data modelling.
-- Understanding system design concepts and scalable architecture.
+- Competitive Programming
+- Data Structures and Algorithms
+- Backend Engineering
+- Database Design
+- System Design
+- Scalable Applications
+- Machine Learning
 
 ## 🌱 Currently Learning
 
-- Strengthening backend engineering fundamentals.
-- Improving database design and query skills with PostgreSQL and MongoDB.
-- Exploring system design concepts.
-- Building foundations before starting Machine Learning.
+- Strengthening Backend Development fundamentals.
+- Improving PostgreSQL and MongoDB skills.
+- Understanding System Design concepts.
+- Exploring the foundations of Machine Learning.
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkanala-45&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+  <a href="https://github.com/shivamkanala-45">
+    <img width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkanala-45&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
+      alt="GitHub Contribution Graph"/>
+  </a>
 </p>
+
+---
 
 ## 👾 Contribution Space Shooter
 
-<!-- Keep this path if your GitHub Actions workflow generates the GIF here. -->
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub contribution Space Shooter animation" />
+  <img width="100%"
+    src="assets/space-shooter.gif"
+    alt="GitHub Contribution Space Shooter"/>
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkanala-45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkanala-45&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img width="95%"
+    src="profile-summary-card-output/radical/0-profile-details.svg"
+    alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+  <img width="48%"
+    src="profile-summary-card-output/radical/3-stats.svg"
+    alt="GitHub Statistics"/>
+  <img width="48%"
+    src="profile-summary-card-output/radical/1-repos-per-language.svg"
+    alt="Repository Languages"/>
+</p>
+
+<p align="center">
+  <img width="65%"
+    src="profile-summary-card-output/radical/2-most-commit-language.svg"
+    alt="Most Committed Languages"/>
+</p>
+
+<p align="center">
+  <img width="65%"
+    src="profile-summary-card-output/radical/4-productive-time.svg"
+    alt="Productive Time"/>
 </p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### 💫 Thanks for visiting my profile!
 
-*Always learning, solving problems, and building one step at a time.*
+**Always learning. Always solving. Always building.**
+
+⭐ Feel free to explore my repositories and connect!
 
 </div>
