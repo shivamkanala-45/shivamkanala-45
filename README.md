@@ -1,75 +1,158 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:175B9C,100:38BDF8&height=165&section=header&text=Shivam%20Kanala&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=17" alt="Shivam Kanala banner" />
+# Hi, I'm Shivam Kanala 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+Node.js+%7C+PostgreSQL;Competitive+Programming+%26+Problem+Solving;Always+learning%2C+always+building" alt="Typing introduction" />
+### Problem Solver · Backend Development Enthusiast · Computer Science Student
 
-<a href="https://github.com/shivamkanala-45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://codeforces.com/profile/shivamkanala"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://leetcode.com/u/shivamkanala_45/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+I enjoy solving challenging problems, understanding how software works under the hood, and building practical applications.
+
+[![GitHub](https://img.shields.io/badge/GitHub-shivamkanala--45-181717?style=for-the-badge&logo=github)](https://github.com/shivamkanala-45)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/shivamkanala)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivamkanala_45/)
 
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student in **Mathematics and Computing**.
-- ⚙️ Interested in **backend engineering**, APIs, databases, and scalable software.
-- 🌱 Exploring **Java, Spring Boot, and PostgreSQL**; previously built REST APIs with **Node.js and Express**.
-- 🧠 Competitive programmer; **Codeforces Expert** and active in DSA.
-- 🚀 I enjoy turning ideas into practical projects and understanding how systems work under the hood.
+- 🧠 Strong interest in **problem solving, Data Structures and Algorithms, and competitive programming**.
+- ⚙️ Currently focusing on **backend development** and learning how to build reliable server-side applications.
+- 🗄️ Working with relational and NoSQL databases, especially **PostgreSQL** and **MongoDB**.
+- 🏗️ Interested in **system design** and understanding how scalable applications are designed.
+- 🤖 Planning to explore **Machine Learning** as a next learning area.
 
-## 🛠️ Tech Stack
+I value understanding the fundamentals, writing maintainable code, and learning by building.
 
-<div align="center">
+## 🧰 Tech Stack
 
-**Languages**
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python,html,css&theme=dark" alt="Languages" />
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Backend & Databases**
+- REST API development
+- Middleware, request validation, and error handling
+- Connecting backend applications with databases
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres&theme=dark" alt="Backend and databases" />
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-**Tools**
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,postman&theme=dark" alt="Developer tools" />
+---
 
-</div>
+## 🚀 Featured Projects
 
-## 🚀 Selected Projects
+### 1. [Campus Gardening Management System](https://github.com/shivamkanala-45/DBMS_PROJECT)
+A web-based system for managing campus gardening operations, including plant records, garden sections, staff, equipment, maintenance tasks, and visitor access.
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **DevPulse Issue Tracker** | REST API for tracking issues with validation, middleware and PostgreSQL integration. | Node.js, Express, PostgreSQL |
-| [**Gardening Management System**](https://github.com/shivamkanala-45/DBMS_PROJECT) | Database-driven campus gardening management with staff, plant and maintenance records. | PostgreSQL, JavaScript |
-| [**JavaScript Mini Projects**](https://github.com/shivamkanala-45/MINI_PROJECTS) | Small browser projects for practicing frontend fundamentals. | HTML, CSS, JavaScript |
+**Highlights**
+- Designed around a PostgreSQL relational database with **23 normalized 3NF tables**.
+- Built a Node.js and Express REST API connected to PostgreSQL.
+- Includes dashboard and modules for plants, sections, staff, equipment, maintenance, and visitors.
+- Supports a dual-mode data approach with a LocalStorage fallback when the backend is unavailable.
 
-> Some project links may need updating if your repository names differ. Add a DevPulse repository URL once published.
+**Tech:** JavaScript, HTML, CSS, Node.js, Express.js, PostgreSQL
 
-## 👾 Contribution Space Shooter
+### 2. [DevPulse Issue Tracker](https://github.com/shivamkanala-45/MINI_PROJECTS/tree/main/DevPulse-Issue-Tracker)
+A full-stack issue and bug-tracking application focused on organizing development tasks through an interactive Kanban-style interface.
 
-<div align="center">
-  <img src="assets/space-shooter.gif" width="100%" alt="Animated space shooter based on GitHub contribution activity" />
-  <sub>Generated weekly from my GitHub contribution calendar.</sub>
-</div>
+**Highlights**
+- Express.js backend with PostgreSQL connection pooling.
+- Request validation using `express-validator`.
+- Custom application error classes and centralized error handling.
+- Dark-mode Kanban dashboard for tracking issues.
+
+**Tech:** Node.js, Express.js, PostgreSQL, JavaScript
+
+### 3. [JavaScript Mini Projects](https://github.com/shivamkanala-45/MINI_PROJECTS)
+A collection of small projects built to practise JavaScript fundamentals and browser interaction.
+
+**Includes**
+- **Color Changer** — dynamic DOM and style manipulation.
+- **BMI Calculator** — takes user input and calculates BMI.
+- **Digital Clock** — displays continuously updated time.
+- **Guess the Number** — interactive number-guessing game.
+
+**Tech:** HTML, CSS, JavaScript
+
+### 4. [JavaScript Learning Repository](https://github.com/shivamkanala-45/JavaScript-Learning)
+A learning repository containing JavaScript notes and practice material, including a detailed browser JavaScript handbook.
+
+**Topics represented**
+- DOM structure, element selection, traversal, and manipulation.
+- Browser-side JavaScript concepts and practical examples.
+- Consolidated JavaScript learning notes.
+
+**Tech:** JavaScript, HTML, Markdown
+
+### 5. [LeetCode Solutions](https://github.com/shivamkanala-45/Leetcode)
+A continuously growing collection of solutions to algorithmic problems.
+
+**Problem-solving areas represented**
+- Arrays, strings, hashing, and binary search.
+- Dynamic programming and greedy algorithms.
+- Trees, graphs, BFS, and DFS.
+- Sliding window, stacks, and other common patterns.
+
+**Language:** C++
+
+---
+
+## 🧠 What I Enjoy Working On
+
+- Algorithmic problem solving and competitive programming.
+- Backend APIs, validation, middleware, and database integration.
+- Relational database design and data modelling.
+- Understanding system design concepts and scalable architecture.
+
+## 🌱 Currently Learning
+
+- Strengthening backend engineering fundamentals.
+- Improving database design and query skills with PostgreSQL and MongoDB.
+- Exploring system design concepts.
+- Building foundations before starting Machine Learning.
+
+---
 
 ## 📈 GitHub Activity
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkanala-45&theme=github-compact&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkanala-45&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
 
-## 📊 Stats & Insights
+## 👾 Contribution Space Shooter
+
+<!-- Keep this path if your GitHub Actions workflow generates the GIF here. -->
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub contribution Space Shooter animation" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkanala-45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkanala-45&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+---
 
 <div align="center">
-  <img width="98%" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
-  <img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
-  <img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories by language" />
-  <img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used commit languages" />
-  <img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=100&section=footer" width="100%" alt="Footer wave" />
-  <b>Thanks for visiting — let's build something meaningful! 🚀</b>
+### Thanks for visiting my profile! ⭐
+
+*Always learning, solving problems, and building one step at a time.*
+
 </div>
