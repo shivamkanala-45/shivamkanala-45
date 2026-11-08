@@ -7,7 +7,7 @@
 I enjoy solving challenging problems, understanding how software works under the hood, and building practical applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shivamkanala--45-181717?style=for-the-badge&logo=github)](https://github.com/shivamkanala-45)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/shivamkanala)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/shivamkanala)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivamkanala_45/)
 
 </div>
